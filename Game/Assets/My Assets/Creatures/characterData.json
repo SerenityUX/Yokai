@@ -1,0 +1,482 @@
+[
+  {
+    "filePath": "/characters/27.png",
+    "name": "Leafwhirl",
+    "creatureDescription": "Its swirling leaves create enchanting patterns that mesmerize those who watch.",
+    "Type": "SadPeaceful",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/27_1.mp3",
+      "/audio/27_2.mp3",
+      "/audio/27_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/04.png",
+    "name": "Tentacake",
+    "creatureDescription": "Its swirly appendages are said to resemble and smell like delicious pastries, attracting sweet-toothed creatures.",
+    "Type": "SadPeaceful",
+    "powerScore": 6,
+    "characterAudios": [
+      "/audio/04_1.mp3",
+      "/audio/04_2.mp3",
+      "/audio/04_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/12.png",
+    "name": "Flamroot",
+    "creatureDescription": "Its fiery tendrils dance with the intensity of blazing embers, mesmerizing and deterring intruders.",
+    "Type": "SadChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/12_1.mp3",
+      "/audio/12_2.mp3",
+      "/audio/12_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/17.png",
+    "name": "Crumbikar",
+    "creatureDescription": "Its rich, crumbly shell has an irresistible allure, attracting fellow creatures for shared snacks.",
+    "Type": "SadChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/17_1.mp3",
+      "/audio/17_2.mp3",
+      "/audio/17_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/29.png",
+    "name": "Pigglepuff",
+    "creatureDescription": "Its known to spread joy with its playful antics and puff-like charm.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/29_1.mp3",
+      "/audio/29_2.mp3",
+      "/audio/29_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/13.png",
+    "name": "Smoketoise",
+    "creatureDescription": "It emits soothing puffs of smoke to calm the atmosphere around it.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/13_1.mp3",
+      "/audio/13_2.mp3",
+      "/audio/13_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/14.png",
+    "name": "Tigrabite",
+    "creatureDescription": "It boasts powerful jaws capable of crunching through the thickest of obstacles with ease.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 2,
+    "characterAudios": [
+      "/audio/14_1.mp3",
+      "/audio/14_2.mp3",
+      "/audio/14_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/02.png",
+    "name": "Pugunja",
+    "creatureDescription": "It cleverly uses its charming disguise to sneak past unsuspecting travelers for surprise cuddles.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 5,
+    "characterAudios": [
+      "/audio/02_1.mp3",
+      "/audio/02_2.mp3",
+      "/audio/02_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/15.png",
+    "name": "Kimonix",
+    "creatureDescription": "Its traditional attire grants it the unique ability to blend into cultural festivals with ease.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 2,
+    "characterAudios": [
+      "/audio/15_1.mp3",
+      "/audio/15_2.mp3",
+      "/audio/15_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/06.png",
+    "name": "Eyecakemon",
+    "creatureDescription": "Its said that each eye can see into different dimensions, making it a master of finding hidden objects.",
+    "Type": "SadChaotic",
+    "powerScore": 8,
+    "characterAudios": [
+      "/audio/06_1.mp3",
+      "/audio/06_2.mp3",
+      "/audio/06_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/40.png",
+    "name": "Tangiboo",
+    "creatureDescription": "Its citrusy aroma and cheerful presence bring festive joy to any gathering.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/40_1.mp3",
+      "/audio/40_2.mp3",
+      "/audio/40_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/09.png",
+    "name": "Potaboo",
+    "creatureDescription": "Its steaming body emits warmth that comforts and relaxes those nearby.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 2,
+    "characterAudios": [
+      "/audio/09_1.mp3",
+      "/audio/09_2.mp3",
+      "/audio/09_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/25.png",
+    "name": "Flametail",
+    "creatureDescription": "Its fiery tail blazes brightly, illuminating the path for mystic travelers.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/25_1.mp3",
+      "/audio/25_2.mp3",
+      "/audio/25_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/18.png",
+    "name": "Kimorilla",
+    "creatureDescription": "Its known for its elegant kimono, which boosts its confidence during social gatherings.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 4,
+    "characterAudios": [
+      "/audio/18_1.mp3",
+      "/audio/18_2.mp3",
+      "/audio/18_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/33.png",
+    "name": "Blossomura",
+    "creatureDescription": "Its said to grace gardens with blooming joy, enchanting all who come near with its floral charm.",
+    "Type": "SadPeaceful",
+    "powerScore": 5,
+    "characterAudios": [
+      "/audio/33_1.mp3",
+      "/audio/33_2.mp3",
+      "/audio/33_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/19.png",
+    "name": "Whalushi",
+    "creatureDescription": "Its sushi-themed attire allows it to swim gracefully through culinary festivals, captivating onlookers.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/19_1.mp3",
+      "/audio/19_2.mp3",
+      "/audio/19_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/08.png",
+    "name": "Smoochwhale",
+    "creatureDescription": "It releases heart-shaped bubbles that bring joy and laughter to anyone who encounters them.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/08_1.mp3",
+      "/audio/08_2.mp3",
+      "/audio/08_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/11.png",
+    "name": "Fluffileen",
+    "creatureDescription": "Its known to bring delight and luck with its soft, whimsical appearance and cheerful demeanor.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/11_1.mp3",
+      "/audio/11_2.mp3",
+      "/audio/11_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/10.png",
+    "name": "Orangisama",
+    "creatureDescription": "Its warm hue and gentle scent are said to bring cheer to anyone in its presence.",
+    "Type": "SadChaotic",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/10_1.mp3",
+      "/audio/10_2.mp3",
+      "/audio/10_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/21.png",
+    "name": "Rainbowmon",
+    "creatureDescription": "Its known to spread vibrant joy wherever it leaps, leaving a trail of colorful happiness.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 5,
+    "characterAudios": [
+      "/audio/21_1.mp3",
+      "/audio/21_2.mp3",
+      "/audio/21_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/31.png",
+    "name": "Radichuckle",
+    "creatureDescription": "Its known for its infectious laughter that brings cheer to any gathering.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/31_1.mp3",
+      "/audio/31_2.mp3",
+      "/audio/31_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/03.png",
+    "name": "Blossoggler",
+    "creatureDescription": "Its vibrant petals release a soothing aroma that lulls nearby creatures into a peaceful nap.",
+    "Type": "SadPeaceful",
+    "powerScore": 2,
+    "characterAudios": [
+      "/audio/03_1.mp3",
+      "/audio/03_2.mp3",
+      "/audio/03_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/38.png",
+    "name": "Shimonoak",
+    "creatureDescription": "Its swirling patterns and vibrant attire enable it to dance with the rhythm of ancient festivals.",
+    "Type": "SadChaotic",
+    "powerScore": 1,
+    "characterAudios": [
+      "/audio/38_1.mp3",
+      "/audio/38_2.mp3",
+      "/audio/38_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/01.png",
+    "name": "Baskiboar",
+    "creatureDescription": "Its known to gather a variety of delightful trinkets on its back to attract friendly company.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 4,
+    "characterAudios": [
+      "/audio/01_1.mp3",
+      "/audio/01_2.mp3",
+      "/audio/01_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/34.png",
+    "name": "Flamuraiquil",
+    "creatureDescription": "Its flaming headdress symbolizes its fierce dedication to honor and protection.",
+    "Type": "SadChaotic",
+    "powerScore": 1,
+    "characterAudios": [
+      "/audio/34_1.mp3",
+      "/audio/34_2.mp3",
+      "/audio/34_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/30.png",
+    "name": "Gigalurk",
+    "creatureDescription": "Its intricate patterns and mysterious aura captivate anyone who encounters it.",
+    "Type": "SadPeaceful",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/30_1.mp3",
+      "/audio/30_2.mp3",
+      "/audio/30_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/05.png",
+    "name": "Bookarok",
+    "creatureDescription": "Its accordion-like body allows it to store and share ancient stories it picks up on its travels.",
+    "Type": "SadPeaceful",
+    "powerScore": 7,
+    "characterAudios": [
+      "/audio/05_1.mp3",
+      "/audio/05_2.mp3",
+      "/audio/05_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/35.png",
+    "name": "Mochidama",
+    "creatureDescription": "Its soft, layered form delights others with a comforting sweetness that's impossible to resist.",
+    "Type": "SadPeaceful",
+    "powerScore": 7,
+    "characterAudios": [
+      "/audio/35_1.mp3",
+      "/audio/35_2.mp3",
+      "/audio/35_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/07.png",
+    "name": "Kitilumon",
+    "creatureDescription": "Its said to illuminate dark paths with its glowing feelers, guiding lost travelers safely through the night.",
+    "Type": "SadChaotic",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/07_1.mp3",
+      "/audio/07_2.mp3",
+      "/audio/07_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/20.png",
+    "name": "Bellbison",
+    "creatureDescription": "Its ornate bells chime with a melody that brings harmony to all around it.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 2,
+    "characterAudios": [
+      "/audio/20_1.mp3",
+      "/audio/20_2.mp3",
+      "/audio/20_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/23.png",
+    "name": "Kotatsucoon",
+    "creatureDescription": "Its known to cozy up in warm spots, inviting friends to share in its toasty comfort.",
+    "Type": "SadPeaceful",
+    "powerScore": 4,
+    "characterAudios": [
+      "/audio/23_1.mp3",
+      "/audio/23_2.mp3",
+      "/audio/23_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/16.png",
+    "name": "Starburaquios",
+    "creatureDescription": "Its flowing celestial patterns are said to guide travelers beneath starry skies.",
+    "Type": "SadPeaceful",
+    "powerScore": 4,
+    "characterAudios": [
+      "/audio/16_1.mp3",
+      "/audio/16_2.mp3",
+      "/audio/16_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/39.png",
+    "name": "Deerubuki",
+    "creatureDescription": "Its elegant antlers and festive attire make it a herald of seasonal celebrations.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 6,
+    "characterAudios": [
+      "/audio/39_1.mp3",
+      "/audio/39_2.mp3",
+      "/audio/39_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/24.png",
+    "name": "Bloboodle",
+    "creatureDescription": "Its jiggly form makes it a master of wobbling dances that amuse onlookers.",
+    "Type": "JoyfulChaotic",
+    "powerScore": 9,
+    "characterAudios": [
+      "/audio/24_1.mp3",
+      "/audio/24_2.mp3",
+      "/audio/24_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/32.png",
+    "name": "Togetongue",
+    "creatureDescription": "Its playful tongue helps it express countless emotions, bringing laughter to all who meet it.",
+    "Type": "SadChaotic",
+    "powerScore": 8,
+    "characterAudios": [
+      "/audio/32_1.mp3",
+      "/audio/32_2.mp3",
+      "/audio/32_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/28.png",
+    "name": "Toastyroar",
+    "creatureDescription": "Its comforting warmth and crispy exterior make it a favorite companion on chilly days.",
+    "Type": "SadPeaceful",
+    "powerScore": 6,
+    "characterAudios": [
+      "/audio/28_1.mp3",
+      "/audio/28_2.mp3",
+      "/audio/28_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/22.png",
+    "name": "Mochiring",
+    "creatureDescription": "Its cheerful nature brings warmth and luck to the festoons it adorns.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 4,
+    "characterAudios": [
+      "/audio/22_1.mp3",
+      "/audio/22_2.mp3",
+      "/audio/22_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/26.png",
+    "name": "Leafberry",
+    "creatureDescription": "Its leafy coat rustles softly, creating soothing melodies as it dances in the breeze.",
+    "Type": "JoyfulPeaceful",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/26_1.mp3",
+      "/audio/26_2.mp3",
+      "/audio/26_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/36.png",
+    "name": "Flapkuro",
+    "creatureDescription": "Its intricate wings can create mesmerizing patterns that captivate any onlooker.",
+    "Type": "SadChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/36_1.mp3",
+      "/audio/36_2.mp3",
+      "/audio/36_3.mp3"
+    ]
+  },
+  {
+    "filePath": "/characters/37.png",
+    "name": "FireCarriage",
+    "creatureDescription": "Its blazing wheels and fiery design enable it to transport passengers through time with ease.",
+    "Type": "SadChaotic",
+    "powerScore": 3,
+    "characterAudios": [
+      "/audio/37_1.mp3",
+      "/audio/37_2.mp3",
+      "/audio/37_3.mp3"
+    ]
+  }
+]
